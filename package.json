@@ -1,0 +1,14 @@
+{
+  "name": "grab-weather-data",
+  "version": "0.0.0",
+  "description": "",
+  "main": "weather.js",
+  "repository": "",
+  "author": "Ying Sun",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "cheerio": "*",
+    "request": "*"
+  }
+}
